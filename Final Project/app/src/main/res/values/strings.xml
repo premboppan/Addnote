@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NoteApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+     <string-array name="sp_category">
+     		<item>Select- </item>
+     		<item>Education</item>
+     		<item>Entertainment</item>
+     		<item>Expenses</item>
+     		<item>Travel</item>
+     </string-array>
+    
+</resources>
